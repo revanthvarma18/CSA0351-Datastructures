@@ -50,3 +50,19 @@ DAY4:
 8. given set of Array elements - display 5th iterated element
 9. Given unsorted array - Display missing element
 10. Array concatenation
+
+DAY5:
+
+1.Haystack
+2. Given Graph convert to array and print minimum edges 
+3. Given Graph - Print valid path
+4. Print no of nodes in the given linked list
+5. Given 2 D matrix print largest element
+6. Given a string - sort in alphabetical order
+07. Print the index of repeated characters given in an array
+08. Print the frequently repeated numbers count from an array
+09. Palindrome using SLL
+10. Binary tree
+11. Intersect SLL
+12. stack using two queues
+13.queue using two stacks
