@@ -66,3 +66,11 @@ DAY5:
 11. Intersect SLL
 12. stack using two queues
 13.queue using two stacks
+
+
+DAY6:(MODEL EXAM)
+01.coefficient of a qurdatic equations
+02.c program to perform add,mul,sub throught elements in matrix
+03.stack operations using array
+04.arrange elements in increasing order and sort number in column
+
